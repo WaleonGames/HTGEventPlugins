@@ -1,0 +1,12 @@
+name: HTGEventPlugins
+version: '${project.version}'
+main: pl.htg.htgeventplugins.Main
+api-version: '1.20'
+description: 'Managers Event Live!'
+author: 'WaleonGames'
+
+commands:
+  event:
+    permission: htgevent.event
+  event_local:
+    permission: htgevent.event_local

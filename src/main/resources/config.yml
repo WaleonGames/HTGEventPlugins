@@ -1,0 +1,38 @@
+#/------------------------------------------------------------------------------\
+#\             HTGEVENT PLUGINS - Plugin Authors WaleonGames
+#/website: https://strona-pod-mody.000webhostapp.com
+#\discord: https://discord.gg/r6T752uj4K
+#/
+#\                       Inne informacje
+#/version: 0.3 beta
+#\authors: WaleonGames
+#/files: config.yml
+#\spigotmc: https://www.spigotmc.org/resources/htg-event-plugin-by-tojawg.113102/
+#/------------------------------------------------------------------------------\
+
+message:
+  # reload plugin me and please not edit HTGEventPlugin.jar
+  reload: "Przeładowałeś Plugin HTGEventPlugin.jar"
+  # text on start Event
+  start:
+    - " "
+    - "§5Start Event"
+    - "§7Distribution of keys/items will occur at regular intervals"
+    - " "
+  # text on give Event
+  give:
+    - " "
+    - "§7We are giving out items/keys to players"
+    - " "
+  # text on give Stop
+  stop:
+    - " "
+    - "§5End of the Event"
+    - "§7The next event will be soon"
+    - " "
+
+config:
+
+#\NOT EDIT !!!
+#/NOT EDIT !!!
+version: '0.3 Beta'
